@@ -1,0 +1,4 @@
+#Wed May 29 13:42:55 ICT 2024
+base.0=/Users/tronghung/Downloads/Finance-App-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
